@@ -3,7 +3,7 @@ package actions
 import (
     "net/http"
 
-    "github.com/cgordon28/coke/models"
+    "github.com/captaincrazybro/go-user-manager-backend/models"
 	"github.com/gobuffalo/buffalo"
 )
 
